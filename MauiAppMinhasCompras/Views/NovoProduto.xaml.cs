@@ -6,4 +6,9 @@ public partial class NovoProduto : ContentPage
 	{
 		InitializeComponent();
 	}
+
+    private void ToolbarItem_Clicked(object sender, EventArgs e)
+    {
+
+    }
 }
