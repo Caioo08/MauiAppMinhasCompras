@@ -1,3 +1,5 @@
+using MauiAppMinhasCompras.Models;
+
 namespace MauiAppMinhasCompras.Views;
 
 public partial class EditarProduto : ContentPage
@@ -7,7 +9,7 @@ public partial class EditarProduto : ContentPage
 		InitializeComponent();
 	}
 
-    private void ToolbarItem_Clicked(object sender, EventArgs e)
+    private async void ToolbarItem_Clicked(object sender, EventArgs e)
     {
         try
         {
