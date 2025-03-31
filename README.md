@@ -60,4 +60,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md par
 
 ## 👥 Autora
 
-Yasmin Pelaquim - [GitHub](https://github.com/YasminPelaquim)
+Caio Prudenciato - [GitHub](https://github.com/Caioo08)
