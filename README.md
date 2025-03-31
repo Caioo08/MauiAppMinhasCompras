@@ -58,6 +58,6 @@ Contribuições são bem-vindas! Por favor, siga estas etapas:
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para detalhes.
 
-## 👥 Autora
+## 👥 Autor
 
 Caio Prudenciato - [GitHub](https://github.com/Caioo08)
