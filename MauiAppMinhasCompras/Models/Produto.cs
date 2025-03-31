@@ -2,12 +2,15 @@
 
 namespace MauiAppMinhasCompras.Models
 {
+    /// Classe de modelo para representar um produto no aplicativo
     public class Produto
     {
         string _descricao;
 
+        // Configuração de chave primária com auto-incremento
         [PrimaryKey, AutoIncrement]
 
+        /// Identificador único do produto
         public int Id { get; set; }
         public string Descricao
         {

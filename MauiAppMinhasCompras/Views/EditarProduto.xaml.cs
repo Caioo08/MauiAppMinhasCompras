@@ -9,6 +9,8 @@ public partial class EditarProduto : ContentPage
 		InitializeComponent();
 	}
 
+    /// Evento acionado quando o botão Salvar é clicado
+    /// Atualiza o produto no banco de dados
     private async void ToolbarItem_Clicked(object sender, EventArgs e)
     {
         try
